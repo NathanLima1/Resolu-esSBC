@@ -1,4 +1,4 @@
-# Resolucoes_SBC
+# Resoluções SBC
 
 ## Descricao
 Este projeto tem como objetivo apresentar as soluções dos problemas da maratona de programação SBC, a fim de ajudar pessoas que estão tentando estudar e melhorar sua programação
